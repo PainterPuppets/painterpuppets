@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=painterpuppets&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=painterpuppets&&show_icons=true&count_private=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 
