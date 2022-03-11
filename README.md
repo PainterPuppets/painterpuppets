@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=painterpuppets&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Tech Stack:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=painterpuppets&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+- Front-end development : **ReactJs**
+
+- Web Backend : **Node.js, Nest.js, Django**
+
+- Database : **PostgreSQL, MongoDB**
+
+- GameEngine : **Unity**
+
+  <br />
+
+---
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=painterpuppets&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+
